@@ -1,0 +1,4 @@
+[wokwi]
+version = 1
+firmware = 'build/Botao_Led_PIO.hex'
+elf = 'build/Botao_Led_PIO.elf'
